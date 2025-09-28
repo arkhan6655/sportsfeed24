@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://sportsurgelive.world/sitemap.xml
+Sitemap: https://sportsfeed24.top/sitemap.xml
+
 
